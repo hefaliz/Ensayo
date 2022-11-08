@@ -2,4 +2,6 @@ ensayo curso platzi
 
 estoy corrigiendo este ensayo 
 
+master 1
+
 para modificar uso de git y otro cambio
